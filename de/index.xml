@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mario Celi (mcelicalderon)</title>
-    <link>https://mcelicalderon.github.io/de/</link>
+    <link>https://mcelicalderon.me/de/</link>
     <description>Recent content on Mario Celi (mcelicalderon)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     
-	<atom:link href="https://mcelicalderon.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mcelicalderon.me/de/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
